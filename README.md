@@ -309,5 +309,3 @@ public class NewClass {
    } 
 }
 ```
-
-And I referred to sample codes for this assignment on comp3331 website
